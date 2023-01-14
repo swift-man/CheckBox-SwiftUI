@@ -1,2 +1,2 @@
-# CheckBox-SwiftUI
+# CheckListView
 SwiftUI View
