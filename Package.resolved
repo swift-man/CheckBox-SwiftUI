@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "identifiableindices",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-man/IdentifiableIndices",
+      "state" : {
+        "revision" : "28459f88d70db60b0ae61b6f4f999133370739cf",
+        "version" : "0.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
